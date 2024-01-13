@@ -42,4 +42,5 @@ output/: Verzeichnis für die gespeicherten Analyseergebnisse und Visualisierung
 
 input/: Verzeichnis für die Eingabedaten und 
 
+WICHTIG: Es gibt im Rahmen der Datenverarbeitung zwei Datenbanken, die aufeinander aufbauen. Die erste, die beim Scrapen erstellt wird, wird als .csv ausgegeben und die Daten wurden in Tableau Prep bereinigt und normalisiert. Mit den Daten aus dieser aktualisierten Datenbank wurde dann ab dem Load-Schritt weitergearbeitet:
 data/: Datensatz nach Bereinigung in Tableau Prep
