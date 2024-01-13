@@ -1,0 +1,8 @@
+Pipfile*
+data-lake
+input
+output
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
